@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new petition: earnestly entreating subscription of hands to back the late city remonstrance. Unto which is annexed a usefull dialogue, betwixt a church-warden and a parishioner, declaring the danger of the said new petition. Serving as a Christian caveat to the wise-hearted, to take heed of having their feet taken in the snare thereof. / By a cordiall wel-willer to the peace of this famous city. Licensed and entred according to order.</title>
+            <author>Cordiall Wel-Willer to the Peace of This Famous City.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90002</idno>
+            <idno type="STC">Wing N697</idno>
+            <idno type="STC">Thomason E340_24</idno>
+            <idno type="STC">ESTC R200887</idno>
+            <idno type="EEBO-CITATION">99861511</idno>
+            <idno type="PROQUEST">99861511</idno>
+            <idno type="VID">113648</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90002)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113648)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E340[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new petition: earnestly entreating subscription of hands to back the late city remonstrance. Unto which is annexed a usefull dialogue, betwixt a church-warden and a parishioner, declaring the danger of the said new petition. Serving as a Christian caveat to the wise-hearted, to take heed of having their feet taken in the snare thereof. / By a cordiall wel-willer to the peace of this famous city. Licensed and entred according to order.</title>
+                  <author>Cordiall Wel-Willer to the Peace of This Famous City.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matth. Symmons.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Coporation of London. --  Court of Common Council --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:113648:1"/>
+            <p>
+               <figure>
+                  <head>York</head>
+                  <p>Pack up and away from <hi>Oxford.</hi>
+                  </p>
+                  <figDesc>woodcut frontispiece</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:113648:1" rendition="simple:additions"/>
+            <p>A NEW PETITION: Earneſtly entreating Sub<g ref="char:EOLhyphen"/>ſcription of Hands to back the late City <hi>Remonſtrance.</hi>
+            </p>
+            <p>Unto which is annexed a uſefull <hi>Dialogue,</hi> betwixt a Church-warden and a Pariſhioner, Declaring the danger of the ſaid NEW PETITION.</p>
+            <p>Serving as a Chriſtian Caveat to the wiſe-hearted, to take heed of having their feet taken in the ſnare thereof.</p>
+            <p>By a cordiall Wel-willer to the peace of this famous City.</p>
+            <p>
+               <hi>Licenſed and Entred according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by MATTH. SYMMONS. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113648:2"/>
+            <pb n="1" facs="tcp:113648:2"/>
+            <head>A New Petition, earneſtly entreating Subſcription of Hands.</head>
+            <div type="part">
+               <head>To the Right Honourable the Lord Major, the Aldermen and Commons of the City of <hi>London</hi> in Common Councell Aſſembled.</head>
+               <head type="sub">The humble Petition of divers well-affected Citizens and Free-men of <hi>London</hi> under the jurisdiction of the Lord Major.</head>
+               <opener>Sheweth,</opener>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat the great care and unceſſant paines of this Ho<g ref="char:EOLhyphen"/>nourable Court for the promoting of the cauſe of God, is ſo eminently knowne, that your Petitio<g ref="char:EOLhyphen"/>ners cunceive that they ſhall be too much wanting to their owne duties and ſafety if they ſhould bee backward in the thankfull acknowledgement thereof. Where<g ref="char:EOLhyphen"/>fore as they give you many humble and hearty thanks for what you have already done in reference to the publike good, ſo being deſirous in what in them lyes yet further to ſtrengthen your hands to ſo glorious a worke they cannot but let you know their reſolutions to adhere unto you in all your juſt and legall proceedings, not doubting but the ſame good hand of God that hath hitherto been with you will ſtill bee upon you for good, whilſt you endeavour in your places the eſtabliſhment of truth &amp; peace, &amp; the removing thoſe preſſing grievances, that lye upon us as you have lately done in that free &amp; neceſſary, yet
+<pb n="2" facs="tcp:113648:3"/>humble and dutifull Remonſtrance &amp; Petition unto the Honou<g ref="char:EOLhyphen"/>rable Houſes of Parliament, and however there wants not thoſe for the preſent, who out of ſelf-reſpects calumniate your good intention therein, yet being perſwaded that in very faithful<g ref="char:EOLhyphen"/>neſſe to the publike you have done it, your Petitioners not only approve of it but rejoyce in it, the rather ſince they know no o<g ref="char:EOLhyphen"/>ther ordinary way for obtaining remedy for their common grie<g ref="char:EOLhyphen"/>vances then by your addreſſes to the Parliament in their behalf.</p>
+               <p>Your Petitioners therfore humbly Pray, that this Honorable Court would be pleaſed ſtill to perſevere and couragi<g ref="char:EOLhyphen"/>ouſly goe on, and by all pious and prudent meanes en<g ref="char:EOLhyphen"/>deavouring the ſpeedy ſettlement of Religion, the Peace of the Kingdome, the union of both Nations, the ſafety and welfare of this City, and in a word the performance of the <hi>Covenant,,</hi> wherein we are Solemn<g ref="char:EOLhyphen"/>ly engaged unto God the righteous Judge of all the world: In reference unto all which good ends your Petitioners pray, that you would ſtill continue your humble addreſſes unto the Parliament, not onely for a gracious Anſwer of your ſaid late Remonſtrance, but for all ſuch other things as ſhall neceſſary conduce to the putting a happy period to our preſent miſerable diſtractions; and that the meane time you would put in execution amongſt your ſelves ſo many branches thereof as the power wherewith (by the Lawes of this Kingdome, you are already inveſted) will extend unto.</p>
+               <closer>And your Petitioners ſhall ever pray, &amp;c.</closer>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:113648:3"/>
+               <head>Obſervations upon the fore going Petition by way of Dialogue between a Church-warden and a Pariſhioner.</head>
+               <sp>
+                  <speaker>Church-warden.</speaker>
+                  <p>
+                     <seg rend="decorInit">C</seg>Ome Neighbour, here is a very ſober, moderate, and pious Petition, tending much for the glorie of God, the peace of the kingdome, and the common good; will you ſubſcribe it?</p>
+               </sp>
+               <sp>
+                  <speaker>Pariſhioner.</speaker>
+                  <p>Sir, I deſire to be excuſed: for my part I doe not like it.</p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>Not like it man? what honeſt man can diſlike it?</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>Sir, It is a very dangerous Petition, and there is more miſchiefe coucht in it then you are aware of.</p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>I thinke in my conſcience ſome men will finde fault with any thing; why man it is as harmleſſe a Petition as ever was ſub<g ref="char:EOLhyphen"/>ſcribed unto; and many honeſt, and underſtanding men have ſub<g ref="char:EOLhyphen"/>ſcribed it.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>I will not make other mens examples, but mine owne Reaſon, the Rule of my actions: honeſt men may ſometimes do knaves worke, &amp; the moſt cunning ſtraines of deſtperate Malig<g ref="char:EOLhyphen"/>nancy; and dangerous conſequence are alwaies carried on by a<g ref="char:EOLhyphen"/>buſed ſimplicity, but I look upon it as a very dangerous Petition</p>
+               </sp>
+               <sp>
+                  <speaker>Chur.</speaker>
+                  <p>I know you are none of theſe Shimaticall Sectaries, which have ever beene the unhappie diſturbers of the publike peace of Church and ſtate; whoſe totall ſuppreſſion would bee a happie thing to this land and nation, I pray you tell mee the rea<g ref="char:EOLhyphen"/>ſon why you will not ſubſcibe it, I'le aſſure you wee are to re<g ref="char:EOLhyphen"/>turne the names of thoſe that deny ſubſcription.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>Returne the names, to whom? have you any authority that put you on worke? for my part I was never known to con<g ref="char:EOLhyphen"/>temne thority; tell me to whom muſt you returne the names of the non-ſubſcribers.</p>
+               </sp>
+               <sp>
+                  <speaker>Chur.</speaker>
+                  <p>Excuſe me there, I ſpeake as your friend, and in my love to you, but I pray you take no notice of that, but tell me the rea<g ref="char:EOLhyphen"/>ſon why you will not ſubſcribe it.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>Why I'le tell you, firſt I like not the thing in the generall. 2. I like not ſome things more particular?</p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>What doe you diſ-like in it in the generall.</p>
+               </sp>
+               <pb n="6" facs="tcp:113648:4"/>
+               <sp>
+                  <speaker>Par:</speaker>
+                  <p>Why truly in the generall I look upon it as meer ſediti<g ref="char:EOLhyphen"/>tion, and that which hath a very dangerous tendency in it, and may likely prove an utter breach between Citie and Pariiament, and confident I am (however you are abuſed) cloſe malignancy lies at the root, and if my councell be worthy to be taken, have no further hand in it.</p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>Sedition man? how can that be, I am ſure as honeſt men, and as good friends to the Parliament as any are in this Citie (none excepted) have their hands in it.</p>
+               </sp>
+               <sp>
+                  <speaker>Par:</speaker>
+                  <p>It's no matter for that, honeſt men are not in all things the moſt politiek, I'le give you an account of my thoughts of it.</p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>Truly I have alwayes taken you for an underſtanding man, not raſh, but rationall, tell me why do you think it ſedition?</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>Why I'le tell you, the City hath petitioned and Remon<g ref="char:EOLhyphen"/>ſtrated to the Houſe, the Houſe ſhew no teſtimonie of their ac<g ref="char:EOLhyphen"/>ceptance (but rather their diſlike) of it, if in ſuch a Caſe a party ſhall joyne together, and ſubſcribe a reſolutution to ſticke unto thoſe, and promiſe to backe them in any thing whereto the Par<g ref="char:EOLhyphen"/>liament ſhows their diſlike, it is abſolute in my judgement ſedi<g ref="char:EOLhyphen"/>tion, and a direct faction, and that which tends to make a very heavy breach between the Citie and Parliament: for it is no leſs then to raiſe up a party againſt the Parliament.</p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>I confeſſe there may be more in it then I ſee before: but confident I am, that there are many honeſt men that would cut off their hands before they would ſubſcribe it, if they thought ſo?</p>
+               </sp>
+               <sp>
+                  <speaker>Par:</speaker>
+                  <p>I do beleeve ſo too; but I verily think the deſigne is dee<g ref="char:EOLhyphen"/>per then you are aware of, and I partly perceive whence it comes about, that there are ſuch daily tamperings with Citizens in matters of this nature?</p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>I pray you tell me your thoughts freely.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>Why, I'le tell you, many Malignants are come into the City, and have made their peace with the Parliament by their Compoſitions; though they are as directly Royalliſts as ever they were: moreover, many Malignant Epiſcopall Prieſts are likewiſe by Compoſitions admitted into the City, both the one and the other, having cunning heads, choiſe wits, deep reaches, and malignant hearts, having ſome hopes that the Scots and the King will joyne together againſt the Parliament: (though
+<pb n="7" facs="tcp:113648:4"/>for my part I have ſtrong confidence (what ever the Kings deſign may be) the Scots will appeare honeſt) theſe men well knowing that if they could but divide <hi>London</hi> from the Parliament, and get thoſe men ſuppreſſed that have done them as much miſchiefe as any in the Kingdome under the notion of Schiſmaticks, An<g ref="char:EOLhyphen"/>nabaptiſts, Independants and Sectaries, theſe men (I ſay may fo<g ref="char:EOLhyphen"/>ment diviſions between the well-affected, and the City and Par<g ref="char:EOLhyphen"/>liament, not doubting but (if that was once irreconcileably done, what with the Scots, the Kings Party in the Kingdome &amp; Citie) the game would goe on their ſides, and ſo they have their deſires; Againe we have a great many Miniſters here, in and a<g ref="char:EOLhyphen"/>bout the Citie, ſome whereof doubtleſſe in conſcience to the glory of God, being much affected with the diviſions and errours of the Times, others byaſſed with baſe ends of honour, and profit, theſe by their invective preachings, ſtirring up the Magiſtrates in their more popular Sermons at <hi>Weſtminſter, Pauls,</hi> every morning exerciſe in the Citie: as alſo by their bitter wri<g ref="char:EOLhyphen"/>tings againſt thoſe that agree not with them in Church govern<g ref="char:EOLhyphen"/>ment? and their diſperſions of their unchriſtian like bookes a<g ref="char:EOLhyphen"/>broad, ſuch as Maſter <hi>Edwards</hi> bookes are (enough to ſet a whole Kingdome on fire) as alſo by the methods that are contriv'd by ſome, ſending abroad, and ſpreading their inſtructions, directi<g ref="char:EOLhyphen"/>ons, &amp; advice for the preaching on ſuch ſubjects throughout the Citie and Kingdome as people are not able to bear; whereby di<g ref="char:EOLhyphen"/>viſions, wrath, diſcord, and generall diſcontents are fomented throughout the Kingdome, ſetting Meniſter againſt people, and people againſt Miniſter, ſtirring up and provoking the City to be troubleſome to the Parliament, to petition againe and again, under a pretence of zeal for the houſe of God, the glory of God, the reformation of the Kingdome, the ſetting up (and that with a rigorous exaction of uniformity therein) of that governement wherein indeed themſelves do not agree, ſome holding it <hi>Jure Divino,</hi> others <hi>Jure Humano,</hi> and ſo they make a great buſling in the Citie and Kingdome about they know not what: hereupon it is very probable, for I ſpeake my thoughts, they ſtirre up the people to joyne with the Common Councell, and to ſtick unto them, inſinuating that the Parliament can do nothing without the Citie, and therefore petition: and if that will not do, peti<g ref="char:EOLhyphen"/>tion, and if that will not doe, petition againe and againe untill
+<pb n="8" facs="tcp:113648:5"/>they doe anſwer you, and that to your content: for doubtleſſe if they ſee you are many in number, and reſolved in the thing, they muſt not deny you, &amp;c. This is another cauſe of theſe kind of procceedings, I blunder out my own opinion, you know I am plain, theſe I profeſſe are my very thoughts? and for my part I look upon this very Petition as widening the diſtance, and en<g ref="char:EOLhyphen"/>creaſing the fire, and enlarging diviſions, and therefore beleeve it I ſhall have no hand in it; it grieves me to ſee how ſimply men are hurried on to their own dammage, let the Parliament alone and God bleſſe them, and let the City act within its ſpheare, and every of us ſtudy more peace and love and Chriſtian ſweeteneſſe in our carriages one towards another then we do. This for the generall:</p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>What are your particular exceptions againſt it?</p>
+               </sp>
+               <sp>
+                  <speaker>Par:</speaker>
+                  <p>Truly I cannot ſtand now to examine all things in it, but I ſhall only for preſent upon a ſuddain let you know my ex<g ref="char:EOLhyphen"/>ceptions againſt one thing you ſpake of in the prayer, you peti<g ref="char:EOLhyphen"/>tion the Lord Major and Common Councell, as they make conſcience of their ſolemn Leagus and Covenant, that they en<g ref="char:EOLhyphen"/>deavour the ſettlement of Religion, I concceive you mean Preſ<g ref="char:EOLhyphen"/>biteriall Government, do you not?</p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>Yes doubtleſſe we mean nothing elſe, for that we ſuppoſe to be according to the Word of God, and the beſt Reformed Churches?</p>
+               </sp>
+               <sp>
+                  <speaker>Par:</speaker>
+                  <p>Why then by this kind of interpretation every man is bound to ſtrive to compell others to conformity unto that Go<g ref="char:EOLhyphen"/>vernment, which hee ſuppoſeth to be according to the Word of God, and the example of the beſt Reformed Churches: ſo the Anabaptiſt he is bound to compell others to his judgement: In<g ref="char:EOLhyphen"/>dependants to do the like, ſeekers to do the like, and ſo this kind of expoſition of the Covenant, puts a ſword into the hands of all ſorts of Sectaries, and people of different judgments to rend and teare and devour one another, and what a dividing and dan<g ref="char:EOLhyphen"/>gerous interpretation of the Covenant is this? to preſſe men as they tender a good conſcience to ruine one another. Sir, I am a little in haſt, I have told you my preſent thoughts in ſhort: I cannot ſubſcribe the Petition.</p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>I thank you for your freeneſſe of diſcourſe, I promiſe you I'le be better adviſed before I proced any further therein.</p>
+               </sp>
+               <closer>
+                  <salute>Farewell Sir.</salute>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
